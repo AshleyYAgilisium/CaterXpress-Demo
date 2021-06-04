@@ -3,11 +3,11 @@
 // Copy the amplifyapp id and replace the invokeUrl below. 
 window._config = {
     cognito: {
-        userPoolId: 'us-east-1_o3ltYsR6E', 
-        userPoolClientId: '2t9vuejmam4rupa4gkal4sdsld', 
+        userPoolId: 'us-east-1_O28EavBy5', 
+        userPoolClientId: '4fuujobs4ekrrd4jaffa7d47uv', 
         region: 'us-east-1'
     },
     api: {
-        invokeUrl: 'https://master.d1twsvtm37y4qv.amplifyapp.com',
+        invokeUrl: 'https://master.d2ltcq32pn2ynl.amplifyapp.com',
     }
 };
